@@ -1,1 +1,1 @@
-#Colour manupulation on Sensehat with every moment of joystick
+#TEXT manupulation on Sensehat grid with every moment of joystick
